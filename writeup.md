@@ -1,7 +1,6 @@
 #**Finding Lane Lines on the Road** 
 
 
-
 **Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:
